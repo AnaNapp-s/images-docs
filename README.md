@@ -19,8 +19,6 @@ Utilize a URL da imagem na documentação conforme necessário.
 
 Para manter a organização e facilitar a busca, siga um padrão de nomenclatura.
 
-	Para descrição das tabelas: 
-`table_nomedatabela.png`
+	Para descrição das tabelas: `table_nomedatabela.png`
 
-	Para imagens de documentação em geral:
-`nomedadoc_descricaoimg.png`
+	Para imagens de documentação em geral: `nomedadoc_descricaoimg.png`
